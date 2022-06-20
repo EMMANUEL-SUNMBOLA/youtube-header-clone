@@ -1,0 +1,64 @@
+body{
+  background: beige;
+}
+.header{
+  background: white;
+width: 1350px;
+}
+nav{
+  display: inline;
+}
+.navAl{
+  background: white;
+  display: inline;
+}
+img{
+  padding-bottom: -39px;
+  width: 90px;
+  margin-bottom: -23px;
+}
+.inp{
+  display: inline;
+}
+input{
+  padding-right: 200px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border: 1px solid black;
+  margin-left:300px;
+}
+.mag{
+  color: grey;
+  border: 1px solid;
+  margin-left: -25px;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  padding-right: 2px;
+}
+.mic{
+  color: grey;
+  margin-left: 20px;
+}
+.rhs{
+  display: inline;
+  margin-left: 420px;
+  word-spacing: 10px;
+}
+.rhs1{
+  background: white;
+  display: inline;
+}
+.dots{
+  background: white;
+  display: inline;
+  word-spacing: -2px;
+  margin-right: 10px;
+  margin-left: 100pz;
+}
+.dp{
+  float: right;
+  height: 25px;
+  width: 25px;
+  border-radius: 20px;
+  margin-top: 6px;
+}
